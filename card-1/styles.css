@@ -87,13 +87,4 @@ body {
     width: 100%;
     max-width: 1000px;
   }
-
-  .card::before {
-    top: auto;
-    right: auto;
-    left: 0;
-    bottom: -50px;
-    height: 100px;
-    width: 100%;
-  }
 }
